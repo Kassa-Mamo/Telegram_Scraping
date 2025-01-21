@@ -1,0 +1,23 @@
+2025-01-18 20:23:34,923 - INFO - Starting Telegram scraper...
+2025-01-18 20:24:41,696 - INFO - Starting Telegram scraper...
+2025-01-18 20:24:41,700 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-18 20:24:41,874 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-18 20:24:43,983 - INFO - Scraping channel: Channel Link
+2025-01-18 20:24:43,984 - ERROR - Error scraping channel Channel Link: Cannot find any entity corresponding to "Channel Link"
+2025-01-18 20:24:43,984 - INFO - Scraping channel: example_channel
+2025-01-18 20:24:44,396 - INFO - Scraping channel: another_channel
+2025-01-18 20:24:44,603 - ERROR - Error scraping channel another_channel: Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+2025-01-18 20:24:44,622 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-18 20:24:44,625 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-18 20:24:44,655 - INFO - Scraping completed.
+2025-01-18 20:24:58,743 - INFO - Starting Telegram scraper...
+2025-01-18 20:24:58,753 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-18 20:24:58,900 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-18 20:25:00,296 - INFO - Scraping channel: Channel Link
+2025-01-18 20:25:00,296 - ERROR - Error scraping channel Channel Link: Cannot find any entity corresponding to "Channel Link"
+2025-01-18 20:25:00,296 - INFO - Scraping channel: example_channel
+2025-01-18 20:25:01,727 - INFO - Scraping channel: another_channel
+2025-01-18 20:25:01,935 - ERROR - Error scraping channel another_channel: Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+2025-01-18 20:25:01,946 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-18 20:25:01,948 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-18 20:25:01,986 - INFO - Scraping completed.
